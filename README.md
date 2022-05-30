@@ -1,6 +1,7 @@
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome]<img src="icon.png" align="right" />](https://nbr29.net)
+# Awesome README 
+<img src="icon.png"/>](https://nbr29.net)
 > A curated list of awesome READMEs
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
