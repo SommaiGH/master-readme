@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# Awesome README 
+# Oat Project 
 <img src="icon.png"/>](https://nbr29.net)
 > A curated list of awesome READMEs
 
