@@ -15,47 +15,21 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 
 ## Table of Contents
 
--   [About Our Project](#envirius)
+-   [**About Our Project**](#envirius)   
 
-    -   [Idea](#idea)
+-   [**Project Aim**](#Project-Aim)
 
-    -   [Features](#features)
+-   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
+    - Genome
+    - iPSC
+    - Network and
 
--   [Project Aim](#Project-Aim)
+-  **Feature guidance**
+-  **Contributing**
+-  **License**
+-  **Citation**
+-  **References**
 
--   [The Project Workflow and File Descriptions](#The-Project-Workflow-and-File-Descriptions)
-
--   [Available plugins](#available-plugins)
-
-    -   [Usage](#usage)
-
-        -   [Check available plugins](#check-available-plugins)
-
-        -   [Check available versions for each plugin](#check-available-versions-for-each-plugin)
-
-        -   [Create an environment](#create-an-environment)
-
-        -   [Activate/deactivate environment](#activatedeactivate-environment)
-
-            -   [Activating in a new shell](#activating-in-a-new-shell)
-
-            -   [Activating in the same shell](#activating-in-the-same-shell)
-
-        -   [Get list of environments](#get-list-of-environments)
-
-        -   [Get current activated environment](#get-current-activated-environment)
-
-        -   [Do something in environment without enabling it](#do-something-in-environment-without-enabling-it)
-
-        -   [Get help](#get-help)
-
-        -   [Get help for a command](#get-help-for-a-command)
-
-    -   [How to add a plugin?](#how-to-add-a-plugin)
-
-        -   [Mandatory elements](#mandatory-elements)
-
-------------------------------------------------------------------------
 ## Project Aim 
 
 The purpose of this project is to distribute the codes that had been used in the multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data . The details of methods can be found in 1) the Method section in the main text and 2) the Supplemental Methods of the manuscript [Ref].
@@ -63,15 +37,12 @@ The purpose of this project is to distribute the codes that had been used in the
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-
-This project includes 3 main subdirectories as follows:
+This project includes 3subdirectories as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 #### I. Genome-wide association study (GWAS)
 
 -   **GWAS analysis & imputation:** we did not provide the code. Here’s the summary:
-
     -   DNA from 1106 subjects was genotyped on the Illumina Psychip. Genotypes were called using the Ricopili pipeline (<https://sites.google.com/a/broadinstitute.org/ricopili/>).
-
     -   Data was screened for low call rate, low genotyping rate, and Hardy Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
 
 -   **A Versatile Gene-based Association Test (VEGAS):** [a web-based tool](https://vegas2.qimrberghofer.edu.au/) (Ref).
@@ -103,59 +74,20 @@ This project includes 3 main subdirectories as follows:
 -   **Pathview creation**
 
 -   **Input files:**
-
     -   Data #3: DE_Genes_Li and CTRL_LRvsNR_for_Katie.xlsx
-
     -   Data #4: prioritized_genes_boosting_methods_5percent_190708.xlsx
 
-| :Steps                                      | :File Description                 |
-|--------------------------|----------------------------------------------|
-| **I. Genome-wide association study (GWAS)** |                                   |
-| GWAS analysis                               | Described somewhere else          |
-| Gene-based analysis                         | Used VEGAS, a web-base tool (ref) |
-|                                             |                                   |
-| GWAS-boosting analysis                      | ???                               |
-| **II. GWAS**                                |                                   |
-| GWAS analysis                               | Described somewhere else          |
-| Gene-based analysis                         | Used VEGAS, a web-base tool (ref) |
-| GWAS-boosting analysis                      | ???                               |
-
-------------------------------------------------------------------------
-
 ## Feature Guidance
+All source code shown here can be found in this GitHub project: 
 
-| Features                     | ![](Downloads/Github%20test/R-Dark.svg){width="50"} | Reference |   Portals   |
-|-----------------------|:---------------:|:---------------:|:---------------:|
-| **Specs**                    |                                                     |           |             |
-| Swagger 2.0                  |                          √                          |     √     |      √      |
-| OpenAPI 3.0                  |                          √                          |     √     |      √      |
-| OpenAPI 3.1                  |                      √ (basic)                      |     √     |      √      |
-|                              |                                                     |           |             |
-| **Theming**                  |                                                     |           |             |
-| Fonts/colors                 |                          √                          |     √     |      √      |
-| Extra theme options          |                                                     |     √     |      √      |
-|                              |                                                     |           |             |
-| **Performance**              |                                                     |           |             |
-| Pagination                   |                                                     |     √     |      √      |
-| Search (enhanced)            |                                                     |     √     |      √      |
-| Search (server-side)         |                                                     |           |      √      |
-|                              |                                                     |           |             |
-| **Multiple APIs**            |                                                     |           |             |
-| Multiple versions            |                                                     |     √     |      √      |
-| Multiple APIs                |                                                     |           |      √      |
-| API catalog                  |                                                     |           |      √      |
-|                              |                                                     |           |             |
-| **Additional features**      |                                                     |           |             |
-| Try-it console               |                                                     |     √     |      √      |
-| Automated code samples       |                                                     |     √     |      √      |
-| Deep links                   |                                                     |     √     |      √      |
-| More SEO control             |                                                     |           |      √      |
-| Contextual docs              |                                                     |           |      √      |
-| Landing pages                |                                                     |           |      √      |
-| React hooks for more control |                                                     |           |      √      |
-| Personalization              |                                                     |           |      √      |
-| Analytics integrations       |                                                     |           |      √      |
-| Feedback                     |                                                     |           | Coming Soon |
+| Features                     |     R    |   Python |   Add Software Required  |
+|------------------------------|:------------:|:--------:|:-----------:|
+| OpenAPI 3.0                  |          |     √    |             |
+| OpenAPI 3.1                  |    √     |          |             |
+| **Theming**                  |          |     √    |  Cytoscape  |
+| Fonts/colors                 |          |          |             |
+| Extra theme options          |          |          |             |
+
 
 ```{r}
 colorize <- function(x, color) {
