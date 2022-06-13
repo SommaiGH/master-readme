@@ -118,7 +118,8 @@ Contributions for this project are:
 **The codes** in this project is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>here</u>.
 
 
-**The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>here</u>.
+**The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme) </u>.
+
 
 Note that **All other files** such as input data files, as part of the manuscript entitled, *“Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"* are under **a CC BY 4.0 license (Creative Commons Attribution 4.0 International license).**
 
