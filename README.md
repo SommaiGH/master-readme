@@ -25,7 +25,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
     - Network and
 
 -  [**Feature guidance**](#Feature-guidance)
--  [**Contributing**](#Contributing)
+-  [**Contribution**](#Contribution)
 -  [**License**](#License)
 -  [**Citation**](#Citation)
 -  [**References**](#References)
