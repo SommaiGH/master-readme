@@ -1,5 +1,4 @@
-# Name of Project: Bipolar disorder and lithium response: pharmacogenomics
-# response: pharmacogenomics
+# Name of Project: Bipolar disorder and lithium response: pharmacogenomics response: pharmacogenomics
 Our project is presenting the analytic codes as part of the study, of which the manuscript, entitled "....", has been published in *Molecular Psychiatry*. [Ref or Doi will be added later]
 
 The aim of the study in the manuscript is to identify the genetic contribution into lithium response in patients with bipolar disorder using multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data.
