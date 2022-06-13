@@ -89,26 +89,6 @@ All source code shown here can be found in this GitHub project:
 | KEGG pathway analysis        |          |          |                          |
 | Pathview creation            |          |          |                          |
 
-```{r}
-colorize <- function(x, color) {
-  if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{%s}{%s}", color, x)
-  } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: %s;'>%s</span>", color,
-      x)
-  } else x
-}
-```
-
-```{r echo=TRUE}
-colorize ("some words in red", "red")
-```
-
-\<span style="color:red"\>cardinals\</span\> [cardinals]{style="color:red"}
-
-![](Downloads/Github%20test/R-Dark.svg){width="50"}
-
-![](Downloads/Github%20test/Python-Dark.svg){width="50"}
 
 ------------------------------------------------------------------------
 
@@ -118,16 +98,16 @@ Contributions for this project are:
 
 -   **Code development team:**
 
-    -   Katie Fisch, PhD
-    -   Brin Sarah Rosenthal, PhD
+    -  KathleenM. Fisch, Ph.D.
+    -  SaraBrin Rosenthal, Ph.D.
 
 -   **Executive manager and sponsor:**
 
-    -   John Kelsoe, MD
+    -   John R. Kelsoe, M.D.
 
 -   **Administrator:**
 
-    -   Vipavee Niemsiri, MD, PhD
+    -   Vipavee Niemsiri, M.D., Ph.D.
 
 ------------------------------------------------------------------------
 
@@ -137,23 +117,26 @@ Contributions for this project are:
 
 **The codes** in this project is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>here</u>.
 
-**All other files** as input files, for example, metadata files, are part of the study published in the manuscript entitled, “ …. ", which are *under* **a CC BY license (Creative Commons Attribution 4.0 International license)**.
 
+**The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>here</u>.
+
+Note that **All other files** such as input data files, as part of the manuscript entitled, *“Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"* are under **a CC BY 4.0 license (Creative Commons Attribution 4.0 International license).**
+
+ 
 ------------------------------------------------------------------------
 
 ## Citation
 
-If you use the code from this project, please cite with the Council of Science Editors (CSE) citation styles as an example below.
+If you use the code from this project, please cite the source code with the Council of Science Editors (CSE) citation styles as an example below.
 
-    CSE Bibliography Format:
-
-    Niemsiri V. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL.
+```
+**CSE Bibliography Format**:
+Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL. 
+```
 
 ------------------------------------------------------------------------
 
 ## References
 
-
-- [go to other github account](https://github.com/SommaiGH/master-readme) - external github account.
-- [go to code file of this github account](https://github.com/OliveKmitl/oraganfood/blob/master/oraganfood/getFoodWhereIdShop.php) - internal code file
+*Will be provided.*
 
