@@ -24,11 +24,11 @@ Here, we make available the analytic toolsemployed as part of the main study, of
     - iPSC
     - Network and
 
--  **Feature guidance**(#Feature-guidance)
--  **Contributing**(#Contributing)
--  **License**(#License)
--  **Citation**(#Citation)
--  **References**(#References)
+-  [**Feature guidance**](#Feature-guidance)
+-  [**Contributing**](#Contributing)
+-  [**License**](#License)
+-  [**Citation**](#Citation)
+-  [**References**](#References)
 
 ## Project Aim 
 
