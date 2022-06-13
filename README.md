@@ -42,12 +42,13 @@ This project includes 3subdirectories as shown below. Brief description is provi
 #### I. Genome-wide association study (GWAS)
 
 -   **GWAS analysis & imputation:** we did not provide the code. Here’s the summary:
-    -   DNA from 1106 subjects was genotyped on the Illumina Psychip. Genotypes were called using the Ricopili pipeline (<https://sites.google.com/a/broadinstitute.org/ricopili/>).
-    -   Data was screened for low call rate, low genotyping rate, and Hardy Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
+    -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
+    -   Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
 
--   **A Versatile Gene-based Association Test (VEGAS):** [a web-based tool](https://vegas2.qimrberghofer.edu.au/) (Ref).
+- **Gene-based analysis**: we used a Versatile Gene-based Association Test (VEGAS): a web-based tool, https://vegas2.qimrberghofer.edu.au/.
 
--   **GWAS boosting (GWAB) analysis:**
+- **GWAS boosting (GWAB) analysis**: The GWAS results were reprioritized by using network information and the algorithms implemented in GWAB and NetWAS methods.
+
 
 #### II. iPSC transcriptomic analyses
 
@@ -56,12 +57,10 @@ This project includes 3subdirectories as shown below. Brief description is provi
 -   **RNA-seq analysis:**
 
     -   Differential expression analysis
-
     -   Input files:
-
         -   Data #1: Phenotype data, kelsoe_metadata_111.csv
-
         -   Data #2: Gene expression data, all_genes_results_111s.txt
+        
 
 #### III. Network and functional enrichment analysis
 
@@ -77,17 +76,18 @@ This project includes 3subdirectories as shown below. Brief description is provi
     -   Data #3: DE_Genes_Li and CTRL_LRvsNR_for_Katie.xlsx
     -   Data #4: prioritized_genes_boosting_methods_5percent_190708.xlsx
 
+
 ## Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
 | Features                     |     R    |   Python |   Add Software Required  |
-|------------------------------|:------------:|:--------:|:-----------:|
-| OpenAPI 3.0                  |          |     √    |             |
-| OpenAPI 3.1                  |    √     |          |             |
-| **Theming**                  |          |     √    |  Cytoscape  |
-| Fonts/colors                 |          |          |             |
-| Extra theme options          |          |          |             |
-
+|------------------------------|:--------:|:--------:|:------------------------:|
+| NetWas analysis              |          |     √    |                          |
+| RNA-seq analysis             |    √     |          |                          |
+| Network propagation analysis |          |     √    |          Cytoscape       |
+| Cluster analysis             |          |          |                          |
+| KEGG pathway analysis        |          |          |                          |
+| Pathview creation            |          |          |                          |
 
 ```{r}
 colorize <- function(x, color) {
