@@ -80,7 +80,7 @@ This project includes 3subdirectories as shown below. Brief description is provi
 ## Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
-| Features                     |     R    |   Python |   Add Software Required  |
+| Features                     |     <img src="R_logo.png">    |   <img src="Python-Logo.png">  |   Add Software Required  |
 |------------------------------|:--------:|:--------:|:------------------------:|
 | NetWas analysis              |          |     √    |                          |
 | RNA-seq analysis             |    √     |          |                          |
