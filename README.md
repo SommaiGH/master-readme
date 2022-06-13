@@ -1,43 +1,4 @@
----
-title: "Bipolar Disorder & Lithium Response"
-author: VNIEMS
-date: June 03 2022
-output: 
-       github_document:
-           toc: true
-           toc_depth: 6
-           number_sections: false
----
-
-![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)
-
-![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange)
-
-![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)
-
-```{r include=FALSE}
-install.packages("rmarkdown",repos = "http://cran.us.r-project.org", dependencies = T, force =T)
-library(rmarkdown)
-
-install.packages("knitr",repos = "http://cran.us.r-project.org",dependencies = T, force=T)
-library(knitr)
-
-install.packages("crayon", repos = "http://cran.us.r-project.org", dependencies = T)
-library(crayon)
-
-options(knitr.table.format = "html") #set global option to get html table format!!!
-
-knitr::is_html_output()
-```
-
-```{r include=FALSE}
-remotes::install_github("haozhu233/kableExtra", dependencies = T, force =T)
-library(kableExtra)
-```
-
-\|Banner\|
-
-## About Our Project
+# Name of Project: Bipolar disorder and lithium response:pharmacogenomics
 
 Our project is presenting the analytic codes as part of the study, of which the manuscript, entitled "....", has been published in *Molecular Psychiatry*. [Ref or Doi will be added later]
 
