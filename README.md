@@ -133,5 +133,7 @@ If you use the code from this project, please cite with the Council of Science E
 
 *Will be provided.*
 
-<img src="">
+<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="40px">
+
+<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GitHub.svg" width="40px">
 
