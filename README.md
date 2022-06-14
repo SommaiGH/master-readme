@@ -30,14 +30,17 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -  [**Citation**](#Citation)
 -  [**References**](#References)
 
+------------------------------------------------------------------------
 ## Project Aim 
 
-The purpose of this project is to distribute the codes that had been used in the multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data . The details of methods can be found in 1) the Method section in the main text and 2) the Supplemental Methods of the manuscript [Ref].
+**The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWASand RNA-seq of patients-derived iPSC neurons.
+
+The study workflow includingdetailed methods can be found in 1) the **‘Method’** section in the main text and 2) the **‘Supplemental Methods’** of the manuscript [doi will be added after a paper is published].
 
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
-This project includes 3subdirectories as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
+This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 ### Genome-wide association study
 
@@ -77,17 +80,18 @@ This project includes 3subdirectories as shown below. Brief description is provi
     -   Data #4: prioritized_genes_boosting_methods_5percent_190708.xlsx
 
 
+------------------------------------------------------------------------
 ## Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
-| Features                     |     <img src="R_logo.png">    |   <img src="Python_logo.png">  |   Add Software Required  |
+| Features                     |<img src="R_logo.png">|<img src="Python_logo.png">|Add Software Required|
 |------------------------------|:--------:|:--------:|:------------------------:|
 | NetWas analysis              |          |     √    |                          |
 | RNA-seq analysis             |    √     |          |                          |
 | Network propagation analysis |          |     √    |          Cytoscape       |
 | Cluster analysis             |          |          |                          |
 | KEGG pathway analysis        |          |          |                          |
-| Pathview creation            |          |          |                          |
+| Pathview creation            |          |     √    |                          |
 
 
 ------------------------------------------------------------------------
@@ -97,16 +101,13 @@ All source code shown here can be found in this GitHub project:
 Contributions for this project are:
 
 -   **Code development team:**
-
     -  KathleenM. Fisch, Ph.D.
-    -  SaraBrin Rosenthal, Ph.D.
+    -  SaraBrinRosenthal, Ph.D.
 
 -   **Executive manager and sponsor:**
-
     -   John R. Kelsoe, M.D.
 
 -   **Administrator:**
-
     -   Vipavee Niemsiri, M.D., Ph.D.
 
 ------------------------------------------------------------------------
@@ -114,9 +115,6 @@ Contributions for this project are:
 ## License
 
 **Copyright © 2022**
-
-**The codes** in this project is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>here</u>.
-
 
 **The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme) </u>.
 
