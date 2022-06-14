@@ -20,9 +20,9 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -   [**Project Aim**](#Project-Aim)
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
-    - [**Genome-wide association study (GWAS)**](#Genome-wide-association-study-(GWAS))
-    - [**iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
-    - [**Network and functional enrichment analysis**](#Network-and-functional-enrichment-analysis)
+    - [**I. Genome-wide association study (GWAS)**](#I.-Genome-wide-association-study-(GWAS))
+    - [**II. iPSC transcriptomic analysis**](#II.-iPSC-transcriptomic-analysis)
+    - [**III. Network and functional enrichment analysis**](#III.-Network-and-functional-enrichment-analysis)
 
 -  [**Feature guidance**](#Feature-guidance)
 -  [**Contribution**](#Contribution)
@@ -39,7 +39,7 @@ The purpose of this project is to distribute the codes that had been used in the
 ## The Project Workflow and File Descriptions
 This project includes 3subdirectories as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
-#### Genome-wide association study (GWAS)
+#### I. Genome-wide association study (GWAS)
 
 -   **GWAS analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
@@ -50,7 +50,7 @@ This project includes 3subdirectories as shown below. Brief description is provi
 - **GWAS boosting (GWAB) analysis**: The GWAS results were reprioritized by using network information and the algorithms implemented in GWAB and NetWAS methods.
 
 
-#### iPSC transcriptomic analysis
+#### II. iPSC transcriptomic analysis
 
 -   **Raw data of RNA-sequencing (RNA-seq)** -- stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
 
@@ -62,7 +62,7 @@ This project includes 3subdirectories as shown below. Brief description is provi
         -   Data #2: Gene expression data, all_genes_results_111s.txt
         
 
-#### Network and functional enrichment analysis
+#### II. Network and functional enrichment analysis
 
 -   **Network propagation analysis**
 
