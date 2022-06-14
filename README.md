@@ -50,7 +50,7 @@ This project includes 3subdirectories as shown below. Brief description is provi
 - **GWAS boosting (GWAB) analysis**: The GWAS results were reprioritized by using network information and the algorithms implemented in GWAB and NetWAS methods.
 
 
-#### II. #### iPSC transcriptomic analysis
+## iPSC transcriptomic analysis
 
 -   **Raw data of RNA-sequencing (RNA-seq)** -- stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
 
