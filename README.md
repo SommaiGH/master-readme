@@ -21,7 +21,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
     - [**Genome-wideassociation analysis**](#Genome-wideassociation-analysis)
-    - [**iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
+    - [**iPSC**](#iPSC)
     - [**Network and functional enrichment analysis**](#Network-and-functional-enrichment-analysis)
 
 -  [**Feature guidance**](#Feature-guidance)
@@ -50,7 +50,7 @@ This project includes 3subdirectories as shown below. Brief description is provi
 - **GWAS boosting (GWAB) analysis**: The GWAS results were reprioritized by using network information and the algorithms implemented in GWAB and NetWAS methods.
 
 
-#### II. iPSC transcriptomic analysis
+#### II. iPSC
 
 -   **Raw data of RNA-sequencing (RNA-seq)** -- stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
 
