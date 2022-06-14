@@ -21,7 +21,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
     - [**Genome-wideassociation analysis**](#Genome-wideassociation-analysis)
-    - [**iPSC**](#iPSC)
+    - [**o	iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
     - [**Network and functional enrichment analysis**](#Network-and-functional-enrichment-analysis)
 
 -  [**Feature guidance**](#Feature-guidance)
@@ -31,7 +31,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -  [**References**](#References)
 
 ## Project Aim 
-## iPSC
+## iPSC transcriptomic analysis
 The purpose of this project is to distribute the codes that had been used in the multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data . The details of methods can be found in 1) the Method section in the main text and 2) the Supplemental Methods of the manuscript [Ref].
 
 ------------------------------------------------------------------------
