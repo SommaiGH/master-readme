@@ -31,7 +31,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -  [**References**](#References)
 
 ## Project Aim 
-
+## iPSC
 The purpose of this project is to distribute the codes that had been used in the multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data . The details of methods can be found in 1) the Method section in the main text and 2) the Supplemental Methods of the manuscript [Ref].
 
 ------------------------------------------------------------------------
