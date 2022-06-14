@@ -101,14 +101,12 @@ All source code shown here can be found in this GitHub project:
 Contributions for this project are:
 
 -   **Code development team:**
-    -  KathleenM. Fisch, Ph.D.
-    -  SaraBrinRosenthal, Ph.D.
-
+    - KathleenM. Fisch, Ph.D.
+    - SaraBrinRosenthal, Ph.D.
 -   **Executive manager and sponsor:**
-    -   John R. Kelsoe, M.D.
-
+    - John R. Kelsoe, M.D.
 -   **Administrator:**
-    -   Vipavee Niemsiri, M.D., Ph.D.
+    - Vipavee Niemsiri, M.D., Ph.D.
 
 ------------------------------------------------------------------------
 
@@ -117,10 +115,8 @@ Contributions for this project are:
 **Copyright © 2022**
 
 **The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme) </u>.
-
  
 ------------------------------------------------------------------------
-
 
 ## Citation
 
