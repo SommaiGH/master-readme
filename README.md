@@ -5,10 +5,10 @@ This is the README for the project of “BipolarDisorder and Lithium Response:Ph
 
 Note that this project is temporality under development, andcoming soon.
 
-# About Our Project
-The aim of the project is to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data.
+## About Our Project
+**The aim** of the project is to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data.
 
-Here, we make available the analytic toolsemployed as part of the main study, of which the manuscript, entitled "Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", has been published in Molecular Psychiatry. [doi will be added after a paper is published] 
+Here, we make available the analytic toolsemployed as part of the main study, of which the manuscript, entitled **"Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis", has been published in Molecular Psychiatry.** [doi will be added after a paper is published] 
 
 
 ------------------------------------------------------------------------
@@ -20,9 +20,9 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -   [**Project Aim**](#Project-Aim)
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
-    - Genome-wideassociation analysis
-    - iPSC transcriptomic analysis
-    - Network and functional enrichment analysis
+    - [Genome-wideassociation analysis](#Genome-wideassociation-analysis)
+    - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
+    - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
 -  [**Feature guidance**](#Feature-guidance)
 -  [**Contribution**](#Contribution)
