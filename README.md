@@ -84,7 +84,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 ## Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
-| Features                     |<img src="R_logo.png">|<img src="Python_logo.png">|Add Software Required|
+| Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="40px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GItHub.svg" width="40px">|Add Software Required|
 |------------------------------|:--------:|:--------:|:------------------------:|
 | NetWas analysis              |          |     √    |                          |
 | RNA-seq analysis             |    √     |          |                          |
@@ -133,7 +133,5 @@ If you use the code from this project, please cite with the Council of Science E
 
 *Will be provided.*
 
-<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="40px">
 
-<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GItHub.svg" width="40px">
 
