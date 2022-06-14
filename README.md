@@ -133,3 +133,5 @@ If you use the code from this project, please cite with the Council of Science E
 
 *Will be provided.*
 
+<img src="https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+
