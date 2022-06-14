@@ -21,7 +21,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
     - [**I. Genome-wide association study (GWAS)**](#I.-Genome-wide-association-study-(GWAS))
-    - [**II. iPSC transcriptomic analysis**](#II.-iPSC-transcriptomic-analysis)
+    - [**iPSC transcriptomic analysis**](#II.-iPSC-transcriptomic-analysis)
     - [**III. Network and functional enrichment analysis**](#III.-Network-and-functional-enrichment-analysis)
 
 -  [**Feature guidance**](#Feature-guidance)
