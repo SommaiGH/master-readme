@@ -52,7 +52,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 - **Gene-based analysis**: we used a Versatile Gene-based Association Test (VEGAS): a web-based tool, https://vegas2.qimrberghofer.edu.au/.
 
-- **GWAS boosting (GWAB) analysis**: The GWAS results were reprioritized by using network information and the algorithms implemented in GWAB and NetWAS methods.
+- **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in genome-wide boosing analysis (GWAB) and NetWAS methods.
 
 
 ### iPSC transcriptomic analysis
