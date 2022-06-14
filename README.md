@@ -20,7 +20,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -   [**Project Aim**](#Project-Aim)
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
-    - [**Genome-wide association study (GWAS)**](#Genome-wide-association-study-(GWAS))
+    - [**Genome-wide association study (GWAS)**](#Genome-wide-association-study)
     - [**iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
     - [**Network and functional enrichment analysis**](#Network-and-functional-enrichment-analysis)
 
@@ -39,9 +39,9 @@ The purpose of this project is to distribute the codes that had been used in the
 ## The Project Workflow and File Descriptions
 This project includes 3subdirectories as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
-### Genome-wide association study (GWAS)
+### Genome-wide association study
 
--   **GWAS analysis & imputation:** we did not provide the code. Here’s the summary:
+-   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
     -   Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.
 
