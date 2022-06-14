@@ -10,7 +10,7 @@
 ## About Our Project
 **The aim** of the project is to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data.
 
-Here, we make available the analytic toolsemployed as part of the main study, of which the manuscript, entitled ***"Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"***, has been published in Molecular Psychiatry. [doi will be added after a paper is published] 
+Here, we make available the analytic toolsemployed as part of the main study, of which the manuscript, entitled ***"Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"***, has been published in *Molecular Psychiatry*. [doi will be added after a paper is published] 
 
 
 ------------------------------------------------------------------------
@@ -118,7 +118,7 @@ Contributions for this project are:
 
 **Copyright © 2022**
 
-**The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md) </u>.
+**The code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md) </u>.
 
 **Note that** All other files such as input data files, as part of the manuscript entitled, *“Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"* are under **a CC BY 4.0 license (Creative Commons Attribution 4.0 International license).**
  
@@ -128,9 +128,9 @@ Contributions for this project are:
 
 If you use the code from this project, please cite with **the Council of Science Editors (CSE)** citation styles as an example below.
 
-    CSE Bibliography Format:
-
-    Niemsiri V. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL.
+    CSE Bibliography Format:   
+    
+    Niemsiri V, Rosenthal SB, Fisch KM, and Kelsoe JR. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL.
 
 ------------------------------------------------------------------------
 
