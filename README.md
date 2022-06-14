@@ -114,7 +114,7 @@ Contributions for this project are:
 
 **Copyright © 2022**
 
-**The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/License.html) </u>.
+**The codein this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md) </u>.
  
 ------------------------------------------------------------------------
 
