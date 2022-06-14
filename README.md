@@ -126,7 +126,7 @@ Contributions for this project are:
 
 ## Citation
 
-If you use the code from this project, please cite with the Council of Science Editors (CSE) citation styles as an example below.
+If you use the code from this project, please cite with **the Council of Science Editors (CSE)** citation styles as an example below.
 
     CSE Bibliography Format:
 
