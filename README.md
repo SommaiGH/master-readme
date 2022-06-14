@@ -1,9 +1,11 @@
-# Name of Project: Bipolar disorder and lithium response: pharmacogenomics
+# Bipolar disorder and lithium response: pharmacogenomics
 <img src="spec.png"> ![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)
 
-**This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.**
+### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.
 
-**Note that this project is temporality under development, andcoming soon.**
+### Note that this project is temporality under development, andcoming soon.
+
+
 
 ## About Our Project
 **The aim** of the project is to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data.
