@@ -21,7 +21,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
     - [**Genome-wideassociation analysis**](#Genome-wideassociation-analysis)
-    - [**o	iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
+    - [**iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
     - [**Network and functional enrichment analysis**](#Network-and-functional-enrichment-analysis)
 
 -  [**Feature guidance**](#Feature-guidance)
