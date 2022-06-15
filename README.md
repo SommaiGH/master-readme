@@ -22,10 +22,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 
 -   [**About Our Project**](#envirius)   
 -   [Project Aim](#Project-Aim)
-
-
-
--   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
+-   [The Project Workflow and File Descriptions](#The-Project-Workflow-and-File-Descriptions)
     - [**Genome-wide association study (GWAS)**](#Genome-wide-association-study)
     - [**iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
     - [**Network and functional enrichment analysis**](#Network-and-functional-enrichment-analysis)
