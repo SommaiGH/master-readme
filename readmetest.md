@@ -17,7 +17,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -   [About our project](#About-Our-Project)   
 -   [Project aim](#Project-Aim)
 -   [The project workflow and file descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [Genome-wide association study (GWAS)](#Genome-wide-association-study)
+    - [Step1: Genome-wide association study (GWAS)](#Genome-wide-association-study)
     - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
     - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
