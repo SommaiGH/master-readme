@@ -1,29 +1,23 @@
-<h2 align="center">Bipolar disorder and lithium response: pharmacogenomics
+<h1 align="center">Bipolar disorder and lithium response: pharmacogenomics
 
-![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)</h2>
+![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)</h1>
 
-### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.
-
-### Note that this project is temporality under development, and coming soon.
-
+#### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.
+#### Note that this project is temporality under development, and coming soon.
 
 
-## About Our Project
+### About Our Project
 **The aim** of the project is to identify the genetic contribution into lithium response in patients with bipolar disorder (BD) using multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data.
 
 Here, we make available the analytic toolsemployed as part of the main study, of which the manuscript, entitled ***"Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"***, has been published in *Molecular Psychiatry*. [doi will be added after a paper is published] 
 
+-----------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
-
-### My Multi Word Header
 ## Table of Contents
-
 -   [About Our Project](#About-Our-Project)   
 -   [Project Aim](#Project-Aim)
 -   [The Project Workflow and File Descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [Genome-wide association study (GWAS)](#Genome-wide-association-study)
+    - [I. Genome-wide association study (GWAS)](#Genome-wide-association-study)
     - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
     - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
@@ -34,7 +28,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -  [References](#References)
 
 ------------------------------------------------------------------------
-## Project Aim 
+### Project Aim 
 
 **The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWAS and RNA-seq of patients-derived iPSC neurons.
 
@@ -42,10 +36,10 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 
 ------------------------------------------------------------------------
 
-## The Project Workflow and File Descriptions
+### The Project Workflow and File Descriptions
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
-### Genome-wide association study
+#### Genome-wide association study
 
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
@@ -56,7 +50,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 - **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
 
 
-### iPSC transcriptomic analysis
+#### iPSC transcriptomic analysis
 
 -   **Raw data of RNA-sequencing (RNA-seq)** <img src="dat.png"> stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
 
@@ -68,7 +62,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
         -   Data #2: Gene expression data, all_genes_results_111s.txt
         
 
-### Network and functional enrichment analysis
+#### Network and functional enrichment analysis
 
 -   **Network propagation analysis**
 
@@ -84,7 +78,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 
 ------------------------------------------------------------------------
-## Feature Guidance
+### Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
 | Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="40px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GItHub.svg" width="40px">|Add Software Required|
@@ -99,7 +93,7 @@ All source code shown here can be found in this GitHub project:
 
 ------------------------------------------------------------------------
 
-## Contribution
+### Contribution
 
 Contributions for this project are:
 
@@ -115,7 +109,7 @@ Contributions for this project are:
 
 ------------------------------------------------------------------------
 
-## License
+### License
 
 **Copyright © 2022**
 
@@ -125,7 +119,7 @@ Contributions for this project are:
  
 ------------------------------------------------------------------------
 
-## Citation
+### Citation
 
 If you use the code from this project, please cite with **the Council of Science Editors (CSE)** citation styles as an example below.
 
@@ -135,7 +129,7 @@ If you use the code from this project, please cite with **the Council of Science
 
 ------------------------------------------------------------------------
 
-## References
+### References
 
 
 *Will be provided.*
