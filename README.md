@@ -17,7 +17,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -   [About Our Project](#About-Our-Project)   
 -   [Project Aim](#Project-Aim)
 -   [The Project Workflow and File Descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [[i]Genome-wide association study (GWAS)](#[i]Genome-wide-association-study)
+    - [Genome-wide association study (GWAS)](#Genome-wide-association-study)
     - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
     - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
@@ -39,7 +39,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ### The Project Workflow and File Descriptions
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
-#### [i]Genome-wide association study
+#### Genome-wide association study
 
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
