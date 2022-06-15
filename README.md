@@ -81,7 +81,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 ### Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
-| Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="40px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GItHub.svg" width="40px">|Add Software Required|
+| Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="40px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GItHub.svg" width="40px">|Additional software required|
 |------------------------------|:--------:|:--------:|:------------------------:|
 | NetWas analysis              |          |     √    |                          |
 | RNA-seq analysis             |    √     |          |                          |
@@ -93,18 +93,22 @@ All source code shown here can be found in this GitHub project:
 
 ------------------------------------------------------------------------
 
-### Contribution
+### Contributing
 
 Contributions for this project are:
 
 -   **Code development team:**
+   
     - KathleenM. Fisch, Ph.D.
+    
     - SaraBrinRosenthal, Ph.D.
     
 -   **Executive manager and sponsor:**
+
     - John R. Kelsoe, M.D.
     
 -   **Administrator:**
+ 
     - Vipavee Niemsiri, M.D., Ph.D.
 
 ------------------------------------------------------------------------
@@ -113,9 +117,9 @@ Contributions for this project are:
 
 **Copyright © 2022**
 
-**The code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.** Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md) </u>.
+**The code in this project** is *free* to be used and/or modify *under the terms of* **the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version**. Please see the policy and term of use <u>[here](https://github.com/SommaiGH/master-readme/blob/main/license.md)</u>.
 
-**Note that** All other files such as input data files, as part of the manuscript entitled, *“Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"* are under **a CC BY 4.0 license (Creative Commons Attribution 4.0 International license).**
+**Note that** All other files such as input data files, as part of the manuscript entitled, *“Focal adhesion is associated with lithium response in bipolar disorder: evidence from a network-based multi-omics analysis"* published in MolecularPsychiatry [doi will be added] are under **a CC BY 4.0 license (Creative Commons Attribution 4.0 International license).**
  
 ------------------------------------------------------------------------
 
