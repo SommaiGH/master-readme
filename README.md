@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)</h1>
 
-### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomic  Study”.
+### This is the README for the project of “Bipolar Disorder and Lithium Response: Pharmacogenomic  Study”.
 ### Note that this project is temporality under development, and coming soon.
 
 
