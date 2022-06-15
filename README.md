@@ -21,9 +21,9 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 ## Table of Contents
 
 -   [**About Our Project**](#envirius)   
--   [click on this link](#Project-Aim)
+-   [Project Aim](#Project-Aim)
 
--   [click on this link](#Project-Aim)
+
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
     - [**Genome-wide association study (GWAS)**](#Genome-wide-association-study)
