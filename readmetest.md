@@ -17,9 +17,9 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -   [About our project](#About-Our-Project)   
 -   [Project aim](#Project-Aim)
 -   [The project workflow and file descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [Step1: Genome-wide association study (GWAS)](#Genome-wide-association-study)
-    - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
-    - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
+    - [Step 1: Genome-wide association study (GWAS)](#Genome-wide-association-study)
+    - [Step 2: iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
+    - [Step 3: Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
 -  [Feature guidance](#Feature-guidance)
 -  [Contributing](#Contributing)
@@ -38,7 +38,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 
 ## The Project Workflow and File Descriptions
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
-
+#### Step 1:
 #### Genome-wide association study
 
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
@@ -49,7 +49,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 - **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
 
-
+#### Step 2:
 #### iPSC transcriptomic analysis
 
 -   **Raw data of RNA-sequencing (RNA-seq)** <img src="/img/dat.png"> stored in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through [**GEO Series accession number GSE205422**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205422).
@@ -61,7 +61,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
         -   Data #1: Phenotype data, kelsoe_metadata_111.csv
         -   Data #2: Gene expression data, all_genes_results_111s.txt
         
-
+#### Step 3:
 #### Network and functional enrichment analysis
 
 -   **Network propagation analysis**
