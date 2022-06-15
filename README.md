@@ -1,8 +1,8 @@
-<h1 align="center">Bipolar Disorder and Lithium Response: Pharmacogenomics
+<h1 align="center">Bipolar Disorder and Lithium Response: Pharmacogenomic Study
 
 ![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)</h1>
 
-### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.
+### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomic  Study”.
 ### Note that this project is temporality under development, and coming soon.
 
 
@@ -36,7 +36,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 
 ------------------------------------------------------------------------
 
-### The Project Workflow and File Descriptions
+## The Project Workflow and File Descriptions
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 
 #### Genome-wide association study
