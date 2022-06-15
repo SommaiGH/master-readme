@@ -28,7 +28,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -  [References](#References)
 
 ------------------------------------------------------------------------
-### Project Aim 
+## Project Aim 
 
 **The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWAS and RNA-seq of patients-derived iPSC neurons.
 
