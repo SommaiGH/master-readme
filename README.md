@@ -78,7 +78,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 
 ------------------------------------------------------------------------
-### Feature Guidance
+## Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
 | Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="50px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GItHub.svg" width="50px">|Additional software required|
@@ -93,7 +93,7 @@ All source code shown here can be found in this GitHub project:
 
 ------------------------------------------------------------------------
 
-### Contributing
+## Contributing
 
 Contributions for this project are:
 
@@ -113,7 +113,7 @@ Contributions for this project are:
 
 ------------------------------------------------------------------------
 
-### License
+## License
 
 **Copyright © 2022**
 
@@ -123,7 +123,7 @@ Contributions for this project are:
  
 ------------------------------------------------------------------------
 
-### Citation
+## Citation
 
 If you use the code from this project, please cite with **the Council of Science Editors (CSE)** citation styles as an example below.
 
@@ -133,7 +133,7 @@ If you use the code from this project, please cite with **the Council of Science
 
 ------------------------------------------------------------------------
 
-### References
+## References
 
 
 *Will be provided.*
