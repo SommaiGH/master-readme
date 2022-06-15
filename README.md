@@ -1,5 +1,6 @@
-# Bipolar disorder and lithium response: pharmacogenomics
-<img src="spec.png"> ![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)
+<h2 align="center">Bipolar disorder and lithium response: pharmacogenomics
+
+![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)</h2>
 
 ### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.
 
@@ -15,11 +16,14 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 
 ------------------------------------------------------------------------
 
+
+### My Multi Word Header
 ## Table of Contents
 
 -   [**About Our Project**](#envirius)   
+-   [click on this link](#Project-Aim)
 
--   [**Project Aim**](#Project-Aim)
+-   [click on this link](#Project-Aim)
 
 -   [**The Project Workflow and File Descriptions**](#The-Project-Workflow-and-File-Descriptions)
     - [**Genome-wide association study (GWAS)**](#Genome-wide-association-study)
