@@ -81,7 +81,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 ## Feature Guidance
 All source code shown here can be found in this GitHub project: 
 
-| Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/R-GitHub.svg" width="50px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/Python-GItHub.svg" width="50px">|Additional software required|
+| Features                     |<img src="https://github.com/SommaiGH/master-readme/blob/main/img/R-GitHub.svg" width="50px">|<img src="https://github.com/SommaiGH/master-readme/blob/main/img/Python-GItHub.svg" width="50px">|Additional software required|
 |------------------------------|:--------:|:--------:|:------------------------:|
 | NetWas analysis              |          |     √    |                          |
 | RNA-seq analysis             |    √     |          |                          |
