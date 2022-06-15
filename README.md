@@ -56,7 +56,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 -   **RNA-seq analysis:**
 
-    -   Differential expression analysis
+    -   Differential expression analysis: the functionsare used for RNA-seq differential expression analysis and downstream analysis.
     -   Input files:
         -   Data #1: Phenotype data, kelsoe_metadata_111.csv
         -   Data #2: Gene expression data, all_genes_results_111s.txt
