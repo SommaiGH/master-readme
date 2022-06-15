@@ -20,18 +20,18 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 ### My Multi Word Header
 ## Table of Contents
 
--   [**About Our Project**](#envirius)   
+-   [About Our Project](#About-Our-Project)   
 -   [Project Aim](#Project-Aim)
 -   [The Project Workflow and File Descriptions](#The-Project-Workflow-and-File-Descriptions)
-    - [**Genome-wide association study (GWAS)**](#Genome-wide-association-study)
-    - [**iPSC transcriptomic analysis**](#iPSC-transcriptomic-analysis)
-    - [**Network and functional enrichment analysis**](#Network-and-functional-enrichment-analysis)
+    - [Genome-wide association study (GWAS)](#Genome-wide-association-study)
+    - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
+    - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
--  [**Feature guidance**](#Feature-guidance)
--  [**Contribution**](#Contribution)
--  [**License**](#License)
--  [**Citation**](#Citation)
--  [**References**](#References)
+-  [Feature guidance](#Feature-guidance)
+-  [Contribution](#Contribution)
+-  [License](#License)
+-  [Citation](#Citation)
+-  [References](#References)
 
 ------------------------------------------------------------------------
 ## Project Aim 
