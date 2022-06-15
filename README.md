@@ -2,8 +2,8 @@
 
 ![](https://img.shields.io/badge/Release%20Date-June%202022-red?style=flat&logo=github&logoColor=red)      ![](https://img.shields.io/badge/Release-v1.1.0-orange?style=flat&logo=github&logoColor=orange) ![](https://img.shields.io/badge/License-%20GPL--3.0--or--later-brightgreen?style=flat&logo=opensourceinitiative&logoColor=brightgreen)</h1>
 
-#### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.
-#### Note that this project is temporality under development, and coming soon.
+### This is the README for the project of “BipolarDisorder and Lithium Response: Pharmacogenomics”.
+### Note that this project is temporality under development, and coming soon.
 
 
 ## About Our Project
@@ -14,15 +14,15 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 -----------------------------------------------------------------------
 
 ## Table of Contents
--   [About Our Project](#About-Our-Project)   
--   [Project Aim](#Project-Aim)
--   [The Project Workflow and File Descriptions](#The-Project-Workflow-and-File-Descriptions)
+-   [About our project](#About-Our-Project)   
+-   [Project aim](#Project-Aim)
+-   [The project workflow and file descriptions](#The-Project-Workflow-and-File-Descriptions)
     - [Genome-wide association study (GWAS)](#Genome-wide-association-study)
     - [iPSC transcriptomic analysis](#iPSC-transcriptomic-analysis)
     - [Network and functional enrichment analysis](#Network-and-functional-enrichment-analysis)
 
 -  [Feature guidance](#Feature-guidance)
--  [Contribution](#Contribution)
+-  [Contributing](#Contributing)
 -  [License](#License)
 -  [Citation](#Citation)
 -  [References](#References)
