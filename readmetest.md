@@ -139,7 +139,7 @@ If you use the code from this project, please cite with **the Council of Science
 *Will be provided.*
 
 <p>
-i. <details><summary>Cool Dropdown #1</summary><br/>
+<details><summary>Cool Dropdown #1</summary><br/>
 ```js
 // so wow, much amazing... you can even put code in these drop downs!
 document.getElementById('root')
