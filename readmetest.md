@@ -39,7 +39,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ## The Project Workflow and File Descriptions
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 #### Step 1:
-#### Genome-wide association study
+#### doi
 
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
@@ -48,6 +48,143 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 - **Gene-based analysis:** we used a Versatile Gene-based Association Test (VEGAS): a web-based tool, https://vegas2.qimrberghofer.edu.au/.
 
 - **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
+#### Step 1:
+1. <details>
+          <summary><strong>Genome-wide association study</strong></summary>
+          <br>
+          <ul>
+            <li>
+              <strong>Genome-wide association study (GWAS) analysis & imputation</strong>: we did not provide the code. Here’s the summary:
+              <ul>
+                <li>DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).</li>
+                <li>Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.</li>
+              </ul>
+            </li> 
+          </ul>
+        </details>
+
+- **type**: One of the following `object` types (click to expand/collapse):<br><br>
+    1. <details>
+          <summary>Genome-wide association study</summary>
+          <br>
+          <ul>
+            <li>
+              <code>type</code>:
+              <ul>
+                <li><strong>type</strong>: <code>enum</code> with singular value <code>doi</code></li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The type of identifier.</li>
+              </ul>
+            </li>
+            <li>
+              <code>value</code>:
+              <ul>
+                <li><strong>type</strong>: <a href="#definitionsdoi"><code>definitions.doi</code></a></li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The value of the DOI, e.g. <code>10.5281/zenodo.1003149</code></li>
+              </ul>
+            </li>
+            <li>
+              <code>description</code>:
+              <ul>
+                <li><strong>type</strong>: <a href="#definitionsidentifier-description"><code>definitions.identifier-description</code></a></li>
+                <li><strong>required</strong>: <code>false</code></li>
+                <li><strong>description</strong>: The description of the DOI, e.g. <code>This is the DOI for version 0.11.4.</code></li>
+              </ul>
+            </li>
+          </ul>
+        </details>
+    1. <details>
+          <summary>URL</summary>
+          <br>
+          <ul>
+            <li>
+              <code>type</code>:
+              <ul>
+                <li><strong>type</strong>: <code>enum</code> with singular value <code>url</code></li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The type of identifier.</li>
+              </ul>
+            </li>
+            <li>
+              <code>value</code>:
+              <ul>
+                <li><strong>type</strong>: <a href="#definitionsurl"><code>definitions.url</code></a></li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The value of the URL, e.g. <code>https://github.com/citation-file-format/citation-file-format</code>.</li>
+              </ul>
+            </li>
+            <li>
+              <code>description</code>:
+              <ul>
+                <li><strong>type</strong>: <a href="#definitionsidentifier-description"><code>definitions.identifier-description</code></a></li>
+                <li><strong>required</strong>: <code>false</code></li>
+                <li><strong>description</strong>: The description of the URL, e.g. <code>The homepage for the project</code>.</li>
+              </ul>
+            </li>
+          </ul>
+        </details>
+    1. <details>
+          <summary>Software Heritage identifier</summary>
+          <br>
+          <ul>
+            <li>
+              <code>type</code>:
+              <ul>
+                <li><strong>type</strong>: <code>enum</code> with singular value <code>swh</code></li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The type of identifier.</li>
+              </ul>
+            </li>
+            <li>
+              <code>value</code>:
+              <ul>
+                <li><strong>type</strong>: <a href="#definitionsswh-identifier"><code>definitions.swh-identifier</code></a></li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The value of the Software Heritage identifier, e.g. <code>swh:1:dir:bc286860f423ea7ced246ba7458eef4b4541cf2d</code>.</li>
+              </ul>
+            </li>
+            <li>
+              <code>description</code>:
+              <ul>
+                <li><strong>type</strong>: <a href="#definitionsidentifier-description"><code>definitions.identifier-description</code></a></li>
+                <li><strong>required</strong>: <code>false</code></li>
+                <li><strong>description</strong>: The description of the Software Heritage identifier, e.g. <code>The directory object of the repository as stored on Software Heritage.</code>.</li>
+              </ul>
+            </li>
+          </ul>
+        </details>
+    1. <details>
+          <summary>Other</summary>
+          <br>
+          <ul>
+            <li>
+              <code>type</code>:
+              <ul>
+                <li><strong>type</strong>: <code>enum</code> with singular value <code>other</code></li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The type of identifier.</li>
+              </ul>
+            </li>
+            <li>
+              <code>value</code>:
+              <ul>
+                <li><strong>type</strong>: Nonempty <code>string</code>.</li>
+                <li><strong>required</strong>: <code>true</code></li>
+                <li><strong>description</strong>: The value of the identifier, e.g. <code>arXiv:2103.06681</code>.</li>
+              </ul>
+            </li>
+            <li>
+              <code>description</code>:
+              <ul>
+                <li><strong>type</strong>: <a href="#definitionsidentifier-description"><code>definitions.identifier-description</code></a></li>
+                <li><strong>required</strong>: <code>false</code></li>
+                <li><strong>description</strong>: The description of the identifier, e.g. <code>The ArXiv preprint of the paper.</code>.</li>
+              </ul>
+            </li>
+          </ul>
+        </details>
+
 
 #### Step 2:
 #### iPSC transcriptomic analysis
