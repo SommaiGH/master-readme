@@ -39,7 +39,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ## The Project Workflow and File Descriptions
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 #### Step 1:
-#### Genome-wide association study
+#### G
 
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
@@ -48,28 +48,15 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 - **Gene-based analysis:** we used a Versatile Gene-based Association Test (VEGAS): a web-based tool, https://vegas2.qimrberghofer.edu.au/.
 
 - **GWAS prioritizing analysis:** The GWAS results were reprioritized by using network information and the algorithms implemented in **genome-wide boosing analysis (GWAB)** and NetWAS methods.
-#### Step 1:
-1. <details>
-          <summary><strong>Genome-wide association study</strong></summary>
-          <br>
-          <ul>
-            <li>
-              <strong>Genome-wide association study (GWAS) analysis & imputation</strong>: we did not provide the code. Here’s the summary:
-              <ul>
-                <li>DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).</li>
-                <li>Genotype data was screened for low call rate, low genotyping rate, and Hardy-Weinberg equilibrium. Imputation was performed using IMPUTE2. Association was tested by linear regression as implemented in PLINK.</li>
-              </ul>
-            </li> 
-          </ul>
-        </details>
+
 
 - **type**: One of the following `object` types (click to expand/collapse):<br><br>
     1. <details>
-          <summary>DOI</summary>
+          <summary>Genome-wide association study</summary>
           <br>
           <ul>
             <li>
-              <code>type</code>:
+              <code>Genome-wide association study (GWAS) analysis & imputation</code>:
               <ul>
                 <li><strong>type</strong>: <code>enum</code> with singular value <code>doi</code></li>
                 <li><strong>required</strong>: <code>true</code></li>
