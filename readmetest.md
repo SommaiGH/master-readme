@@ -39,7 +39,7 @@ The study workflow including detailed methods can be found in 1) the **‘Method
 ## The Project Workflow and File Descriptions
 This project includes **3 subdirectories** as shown below. Brief description is provided for each file, including additional/required data, which will be a useful resource for users.  
 #### Step 1:
-#### G
+#### Genome-wide association study
 
 -   **Genome-wide association study (GWAS) analysis & imputation:** we did not provide the code. Here’s the summary:
     -   DNA from 1106 subjects was genotyped on the Illumina PsychChip (https://sites.google.com/a/broadinstitute.org/psych-chip-resources/home).
@@ -52,7 +52,7 @@ This project includes **3 subdirectories** as shown below. Brief description is 
 
 - **type**: One of the following `object` types (click to expand/collapse):<br><br>
     1. <details>
-          <summary>Genome-wide association study</summary>
+          <summary>DOI</summary>
           <br>
           <ul>
             <li>
