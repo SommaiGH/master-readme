@@ -33,7 +33,7 @@ Here, we make available the analytic toolsemployed as part of the main study, of
 **The purpose** of the project is to distribute the tool (code development) that had been used in the multi-omics analysis of integrated data between BD GWAS and RNA-seq of patients-derived iPSC neurons.
 
 The study workflow including detailed methods can be found in 1) the **‘Method’** section in the main text and 2) the **‘Supplemental Methods’** of the manuscript [doi will be added after a paper is published].
-
+## Project Aim 
 ------------------------------------------------------------------------
 
 ## The Project Workflow and File Descriptions
